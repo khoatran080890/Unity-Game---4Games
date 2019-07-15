@@ -1,5 +1,5 @@
 # Unity-Game
-Unity made by Unity. Self created.
+Unity made by Unity. Self-created.
 
 ## I. Terminal game
 
