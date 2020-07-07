@@ -24,6 +24,7 @@ Use Q to cheat
 
 ## IV. Star Shooting
 
+Use a,w,s,d to move ship and shooting
 
 
 
